@@ -28,6 +28,7 @@ Data Preprocessing
 Descriptive Analysis
 •  Metrics: EV sales/stock share by vehicle type; EV sales by powertrain; AAGR.
 •  Visualizations: Bar charts (sales share, AAGR), heatmap (vehicle types), line plot (growth trends). Run the Jupyter notebook to generate and view these visualizations.
+![image](https://github.com/user-attachments/assets/5bf0e1a4-ba37-49a3-be30-a0067b03d9ed)
 K-Means Clustering
 •  Algorithm: K-means with n_init=10.
 •  Optimal k=6 selected via elbow method and silhouette scores.
