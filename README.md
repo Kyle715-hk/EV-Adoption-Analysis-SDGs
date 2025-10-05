@@ -33,6 +33,7 @@ K-Means Clustering
 •  Algorithm: K-means with n_init=10.
 •  Optimal k=6 selected via elbow method and silhouette scores.
 •  Clustered 26 regions on standardized features.
+![image](https://github.com/user-attachments/assets/e4b37d5b-33f3-4cce-b235-c21047116718)
 Multiple Linear Regression
 •  Model: Linear regression predicting ev_sales_share.
 •  Features: ev_stock, GDP per capita, urban population, manufacturing employment.
